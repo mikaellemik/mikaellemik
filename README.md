@@ -7,4 +7,6 @@ Prazer, me chamo Mikaelle
  -Estou utilizando essa plataforma para meu desenvolvimento
 
 Espero que gostem de ver meu desenvolvimento aqui!
-![Uploading cat-hands-up.gif…]()
+
+
+
